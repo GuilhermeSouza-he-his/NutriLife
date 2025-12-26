@@ -1,0 +1,193 @@
+{
+  "navbar": {
+    "home": "INÍCIO",
+    "all doctors": "MEDÍCOS",
+    "about": "SOBRE",
+    "contact": "CONTATO",
+    "create account": "Criar conta",
+    "my appointment": "Agendamentos",
+    "profile": "Perfil",
+    "logout": "Sair"
+  },
+  "header": {
+    "title": "Agende sua Consulta\nCom Nutricionistas de Confiança",
+    "description": "Explore nossa ampla lista de nutricionistas qualificados, agende sua consulta de forma simples e sem complicações.",
+    "button": "Agendar consulta"
+  },
+    "speciality": {
+    "title": "Encontre por Especialidade",
+    "description": "Explore facilmente nossa ampla lista de nutricionistas de confiança e agende sua consulta sem complicações."
+  },
+    "topDoctors": {
+    "title": "Principais Nutricionistas para Agendar",
+    "description": "Navegue por nossa lista de nutricionistas qualificados e confiáveis.",
+    "button": "Ver mais"
+  },
+  "availability": {
+    "available": "Disponível",
+    "notAvailable": "Indisponível"
+  },
+   "banner": {
+    "title": "Agende sua Consulta",
+    "subtitle": "Com mais de 100+ Nutricionistas de Confiança",
+    "button": "Criar conta"
+  },
+  "footer": {
+    "description": "NutriLife é uma plataforma dedicada a conectar você com nutricionistas de confiança. Facilitamos o agendamento de consultas para cuidar da sua saúde com segurança e praticidade.",
+    "company": "Empresa",
+    "links": {
+      "home": "Início",
+      "about": "Sobre nós",
+      "delivery": "Entrega",
+      "privacy": "Política de Privacidade"
+    },
+    "contact": {
+      "title": "Entre em contato"
+    },
+    "copyright": "Copyright 2025 @ NutriLife.com - Todos os direitos reservados."
+  },
+   "relatedDoctors": {
+    "title": "Nutricionistas Relacionados",
+    "description": "Navegue facilmente pela nossa extensa lista de nutricionistas de confiança."
+  },
+   "about": {
+    "title": {
+      "about": "Sobre",
+      "us": "Nós"
+    },
+    "intro": {
+      "p1": "Bem-vindo ao NutriLife, seu parceiro de confiança para gerenciar suas necessidades de nutrição de forma prática e eficiente. No NutriLife, entendemos os desafios que as pessoas enfrentam quando se trata de organizar consultas nutricionais e acompanhar seu histórico alimentar e de saúde.",
+      "p2": "O NutriLife é comprometido com a excelência em tecnologia voltada à nutrição. Buscamos continuamente aprimorar nossa plataforma, integrando as mais recentes inovações para melhorar a experiência do usuário e oferecer um serviço de alta qualidade. Seja para agendar sua primeira consulta nutricional ou para acompanhar seu plano alimentar ao longo do tempo, o NutriLife está aqui para apoiar você em cada etapa da sua jornada."
+    },
+    "vision": {
+      "title": "Nossa Visão",
+      "description": "Nossa visão no NutriLife é criar uma experiência de nutrição simples, acessível e eficiente para todos os usuários. Nosso objetivo é aproximar pessoas e profissionais da nutrição, facilitando o acesso a orientações nutricionais de qualidade, no momento em que você mais precisa."
+    },
+    "why": {
+      "title": "Por que nos escolher",
+      "efficiency": {
+        "title": "Eficiência",
+        "description": "Agendamento simplificado de consultas nutricionais, pensado para se encaixar na sua rotina corrida."
+      },
+      "convenience": {
+        "title": "Conveniência",
+        "description": "Acesso a uma rede de nutricionistas e profissionais de nutrição confiáveis na sua região."
+      },
+      "personalization": {
+        "title": "Personalização",
+        "description": "Recomendações personalizadas e lembretes para ajudar você a manter o foco na sua saúde e alimentação."
+      }
+    }
+  },
+  "contact": {
+    "title": {
+      "contact": "Contato",
+      "us": "Conosco"
+    },
+    "office": {
+      "title": "Nosso Escritório",
+      "address": "Estação Ramos 1\nSuite 350, Belém, BR",
+      "info": "Tel: (91) 95555-0132\nEmail: guilherme@gmail.com"
+    },
+    "careers": {
+      "title": "Carreiras na NutriLife",
+      "description": "Saiba mais sobre nossas equipes e oportunidades de trabalho.",
+      "button": "Procure Trabalhos"
+    }
+  },
+   "doctors": {
+    "description": "Explore os nutricionistas por especialidade.",
+    "filters": {
+      "button": "Filtros",
+      "sport": "Esportiva",
+      "clinical": "Clínica",
+      "child": "Infantil",
+      "aesthetic": "Estética",
+      "functional": "Funcional",
+      "geriatric": "Geriátrica"
+    },
+    "availability": {
+      "available": "Disponível",
+      "notAvailable": "Indisponível"
+    }
+  },
+  "auth": {
+    "signup": {
+      "title": "Criar Conta",
+      "subtitle": "Por favor, crie uma conta para agendar consultas",
+      "button": "Criar conta",
+      "switch": "Já tem uma conta?",
+      "switchAction": "Entrar"
+    },
+    "login": {
+      "title": "Entrar",
+      "subtitle": "Por favor, faça login para agendar consultas",
+      "button": "Entrar",
+      "switch": "Criar uma nova conta?",
+      "switchAction": "Clique aqui"
+    },
+    "form": {
+      "name": "Nome completo",
+      "email": "Email",
+      "password": "Senha"
+    }
+  },
+  "profile": {
+    "contactInfo": "INFORMAÇÕES DE CONTATO",
+    "basicInfo": "INFORMAÇÕES BÁSICAS",
+
+    "fields": {
+      "email": "Email",
+      "phone": "Telefone",
+      "address": "Endereço",
+      "gender": "Gênero",
+      "birthday": "Data de nascimento",
+      "name": "Nome"
+    },
+
+    "gender": {
+      "notSelected": "Não selecionado",
+      "male": "Masculino",
+      "female": "Feminino"
+    },
+
+    "buttons": {
+      "edit": "Editar",
+      "save": "Salvar informações"
+    },
+
+    "toast": {
+      "success": "Perfil atualizado com sucesso",
+      "error": "Erro ao atualizar perfil"
+    }
+  },
+  "appointment": {
+    "about": "Sobre",
+    "fee": "Valor da consulta",
+    "bookingSlots": "Horários disponíveis",
+    "bookButton": "Agendar consulta",
+    "loginWarning": "Faça login para agendar a consulta",
+
+    "days": {
+      "sun": "DOM",
+      "mon": "SEG",
+      "tue": "TER",
+      "wed": "QUA",
+      "thu": "QUI",
+      "fri": "SEX",
+      "sat": "SAB"
+    }
+  },
+  "months": ["Jan", "Fev", "Mar", "Abr", "Mai", "Jun", "Jul", "Ago", "Set", "Out", "Nov", "Dez"],
+
+  "appointments": {
+    "title": "Minhas consultas",
+    "address": "Endereço",
+    "dateTime": "Data e Hora",
+    "payOnline": "Pagar online",
+    "paid": "Pago",
+    "completed": "Concluída",
+    "cancel": "Cancelar consulta",
+    "cancelled": "Consulta cancelada"
+  }
+}

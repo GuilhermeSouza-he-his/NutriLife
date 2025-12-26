@@ -1,0 +1,193 @@
+{
+  "navbar": {
+    "home": "HOME",
+    "all doctors": "ALL DOCTORS",
+    "about": "ABOUT",
+    "contact": "CONTACT",
+    "create account": "Create account",
+    "my appointment": "My Appointments",
+    "profile": "My Profile",
+    "logout": "Logout"
+  },
+  "header": {
+    "title": "Schedule your Appointment\nWith Trusted Nutritionists",
+    "description": "Explore our wide list of qualified nutritionists, schedule your appointment easily and without hassle.",
+    "button": "Book appointment"
+  },
+    "speciality": {
+    "title": "Find by Speciality",
+    "description": "Easily explore our wide list of trusted nutritionists and book your appointment without hassle."
+  },
+    "topDoctors": {
+    "title": "Top Nutritionists to Book",
+    "description": "Browse our list of qualified and trusted nutritionists.",
+    "button": "More"
+  },
+  "availability": {
+    "available": "Available",
+    "notAvailable": "Not Available"
+  },
+   "banner": {
+    "title": "Schedule your Appointment",
+    "subtitle": "With more than 100+ Trusted Nutritionists",
+    "button": "Create account"
+  },
+   "footer": {
+    "description": "NutriLife is a platform dedicated to connecting you with trusted nutritionists. We make it easy to schedule appointments and take care of your health with confidence and convenience.",
+    "company": "Company",
+    "links": {
+      "home": "Home",
+      "about": "About us",
+      "delivery": "Delivery",
+      "privacy": "Privacy policy"
+    },
+    "contact": {
+      "title": "Get in touch"
+    },
+    "copyright": "Copyright 2025 @ NutriLife.com - All Rights Reserved."
+  },
+   "relatedDoctors": {
+    "title": "Related Doctors",
+    "description": "Simply browse through our extensive list of trusted doctors."
+  },
+  "about": {
+    "title": {
+      "about": "About",
+      "us": "Us"
+    },
+    "intro": {
+      "p1": "Welcome to NutriLife, your trusted partner for managing your nutrition needs in a practical and efficient way. At NutriLife, we understand the challenges people face when it comes to organizing nutrition appointments and tracking their dietary and health history.",
+      "p2": "NutriLife is committed to excellence in nutrition-focused technology. We continuously strive to improve our platform by integrating the latest innovations to enhance user experience and deliver high-quality service. Whether you are booking your first nutrition consultation or following your meal plan over time, NutriLife is here to support you at every step of your journey."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "Our vision at NutriLife is to create a simple, accessible, and efficient nutrition experience for all users. Our goal is to connect people with nutrition professionals, making quality nutritional guidance available when you need it most."
+    },
+    "why": {
+      "title": "Why Choose Us",
+      "efficiency": {
+        "title": "Efficiency",
+        "description": "Simplified nutrition appointment scheduling designed to fit seamlessly into your busy routine."
+      },
+      "convenience": {
+        "title": "Convenience",
+        "description": "Access to a trusted network of nutritionists and nutrition professionals in your region."
+      },
+      "personalization": {
+        "title": "Personalization",
+        "description": "Personalized recommendations and reminders to help you stay focused on your health and nutrition."
+      }
+    }
+  },
+  "contact": {
+    "title": {
+      "contact": "Contact",
+      "us": "Us"
+    },
+    "office": {
+      "title": "Our Office",
+      "address": "Ramos Station 1\nSuite 350, Belém, BR",
+      "info": "Phone: (91) 95555-0132\nEmail: guilherme@gmail.com"
+    },
+    "careers": {
+      "title": "Careers at NutriLife",
+      "description": "Learn more about our teams and job opportunities.",
+      "button": "View Jobs"
+    }
+  },
+  "doctors": {
+    "description": "Explore nutritionists by specialty.",
+    "filters": {
+      "button": "Filters",
+      "sport": "Sports",
+      "clinical": "Clinical",
+      "child": "Pediatric",
+      "aesthetic": "Aesthetic",
+      "functional": "Functional",
+      "geriatric": "Geriatric"
+    },
+    "availability": {
+      "available": "Available",
+      "notAvailable": "Not Available"
+    }
+  },
+  "auth": {
+    "signup": {
+      "title": "Create Account",
+      "subtitle": "Please sign up to book an appointment",
+      "button": "Create account",
+      "switch": "Already have an account?",
+      "switchAction": "Login here"
+    },
+    "login": {
+      "title": "Login",
+      "subtitle": "Please log in to book an appointment",
+      "button": "Login",
+      "switch": "Create a new account?",
+      "switchAction": "Click here"
+    },
+    "form": {
+      "name": "Full Name",
+      "email": "Email",
+      "password": "Password"
+    }
+  },
+  "profile": {
+    "contactInfo": "CONTACT INFORMATION",
+    "basicInfo": "BASIC INFORMATION",
+
+    "fields": {
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "gender": "Gender",
+      "birthday": "Birthday",
+      "name": "Name"
+    },
+
+    "gender": {
+      "notSelected": "Not Selected",
+      "male": "Male",
+      "female": "Female"
+    },
+
+    "buttons": {
+      "edit": "Edit",
+      "save": "Save information"
+    },
+
+    "toast": {
+      "success": "Profile updated successfully",
+      "error": "Failed to update profile"
+    }
+  },
+  "appointment": {
+    "about": "About",
+    "fee": "Appointment fee",
+    "bookingSlots": "Booking slots",
+    "bookButton": "Book an appointment",
+    "loginWarning": "Login to book appointment",
+
+    "days": {
+      "sun": "SUN",
+      "mon": "MON",
+      "tue": "TUE",
+      "wed": "WED",
+      "thu": "THU",
+      "fri": "FRI",
+      "sat": "SAT"
+    }
+  },
+   "months": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+
+  "appointments": {
+    "title": "My appointments",
+    "address": "Address",
+    "dateTime": "Date & Time",
+    "payOnline": "Pay online",
+    "paid": "Paid",
+    "completed": "Completed",
+    "cancel": "Cancel appointment",
+    "cancelled": "Appointment cancelled"
+  }
+}
