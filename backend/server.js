@@ -15,7 +15,14 @@ connectCloudinary()
 
 // middlewares
 app.use(express.json())
-app.use(cors())
+app.use(cors({
+  origin: [
+    'http://localhost:5173',
+    'https://nutrilife.onrender.com' // 🔴 COLOQUE A URL REAL DO SEU FRONT
+  ],
+  methods: ['GET', 'POST', 'PUT', 'DELETE'],
+  credentials: true
+}))
 
 // api endpoints
 app.use("/api/user", userRouter)
