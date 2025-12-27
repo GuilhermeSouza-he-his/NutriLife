@@ -7,7 +7,7 @@ export const AppContext = createContext()
 const AppContextProvider = (props) => {
 
     const currencySymbol = '$'
-    const backendUrl = import.meta.env.VITE_BACKEND_URL
+    const backendUrl = "https://nutrilife-backend-2421.onrender.com"
     console.log('BACKEND URL =>', backendUrl)
 
     const [doctors, setDoctors] = useState([])
