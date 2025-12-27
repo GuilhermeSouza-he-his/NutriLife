@@ -8,6 +8,7 @@ const AppContextProvider = (props) => {
 
     const currencySymbol = '$'
     const backendUrl = "https://nutrilife-backend-2421.onrender.com"
+    console.log('BACKEND URL =>', backendUrl)
 
     const [doctors, setDoctors] = useState([])
     const [token, setToken] = useState(localStorage.getItem('token') ? localStorage.getItem('token') : '')
