@@ -102,7 +102,9 @@ const AdminContextProvider = (props) => {
     const getDashData = async () => {
         try {
 
-            const { data } = await axios.get(backendUrl + '/api/admin/dashboard', { headers: { aToken } })
+            const { data } = await axios.get(backendUrl + '/api/admin/dashboard', headers: {
+    Authorization: `Bearer ${token}`
+  })
 
             if (data.success) {
                 setDashData(data.dashData)
