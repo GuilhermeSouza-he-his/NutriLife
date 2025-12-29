@@ -15,12 +15,18 @@ const AdminContextProvider = (props) => {
     const [doctors, setDoctors] = useState([])
     const [dashData, setDashData] = useState(false)
 
+    const authHeaders = {
+    headers: {
+    Authorization: `Bearer ${aToken}`
+  }
+}
+
     // Getting all Doctors data from Database using API
     const getAllDoctors = async () => {
 
         try {
 
-            const { data } = await axios.get(backendUrl + '/api/admin/all-doctors', { headers: { aToken } })
+            const { data } = await axios.get(backendUrl + '/api/admin/all-doctors', authHeaders)
             if (data.success) {
                 setDoctors(data.doctors)
             } else {
