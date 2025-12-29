@@ -15,20 +15,18 @@ connectCloudinary()
 
 // middlewares
 app.use(express.json())
-const corsOptions = {
+app.use(cors({
   origin: [
     "http://localhost:5173",
     "https://nutrilife-frontend.onrender.com",
     "https://nutrilife-sdwn.onrender.com"
   ],
-  methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+  methods: ["GET", "POST", "PUT", "DELETE"],
   allowedHeaders: ["Content-Type", "Authorization", "token"],
   credentials: true
-}
+}));
 
-// ✅ responder preflight
-app.use(cors(corsOptions))
-app.options("*", cors(corsOptions))
+app.options("*", cors());
 
 // api endpoints
 app.use("/api/user", userRouter)
