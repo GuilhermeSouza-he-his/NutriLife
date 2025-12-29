@@ -22,7 +22,7 @@ app.use(cors({
     "https://nutrilife-sdwn.onrender.com"
   ],
   methods: ["GET", "POST", "PUT", "DELETE"],
-  allowedHeaders: ["Content-Type", "Authorization", "token"],
+  allowedHeaders: ["Content-Type", "Authorization", "token", "atoken"],
   credentials: true
 }));
 
